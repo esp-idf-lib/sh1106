@@ -1,0 +1,14 @@
+---
+name: sh1106
+description: esp_lcd panel driver for the SH1106 OLED controller
+version: 1.0.0
+groups:
+  - display
+code_owners: UncleRus
+depends:
+  - esp_lcd
+thread_safe: no
+license: BSD-3-Clause
+copyrights:
+  - name: UncleRus
+    year: 2026
