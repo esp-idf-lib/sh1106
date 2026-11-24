@@ -13,4 +13,4 @@ jobs:
       api_token: ${{ secrets.ESP_TOKEN }}
     with:
       components: |
-        max6675:.
+        sh1106:.
