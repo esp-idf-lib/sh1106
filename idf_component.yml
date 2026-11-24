@@ -1,0 +1,16 @@
+---
+version: "1.0.0"
+description: esp_lcd panel driver for the SH1106 OLED controller
+license: BSD-3-Clause
+maintainers:
+  - Ruslan V. Uss (@UncleRus) <unclerus@gmail.com>
+url: https://github.com/esp-idf-lib/core
+repository: https://github.com/esp-idf-lib/sh1106
+documentation: https://esp-idf-lib.github.io/sh1106/
+issues: https://github.com/esp-idf-lib/sh1106/issues
+discussion: https://github.com/esp-idf-lib/core/discussions
+dependencies:
+  idf: ">=5.0"
+files:
+  exclude:
+    - docs/**/*
